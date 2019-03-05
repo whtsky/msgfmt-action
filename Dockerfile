@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.9
 
 LABEL "com.github.actions.name"="msgfmt"
 LABEL "com.github.actions.description"="Generate binary message catalog from textual translation description."
